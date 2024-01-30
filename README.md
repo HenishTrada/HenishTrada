@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+<p align="center">
+  <a href="https://github.com/HenishTrada">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenishTrada&theme=transparent" />
+  </a>
+  <a href="https://github.com/Henish_t">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenishTrada&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Henish_t">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenishTrada&theme=transparent" />
+  </a>
+<!--   <a href="https://github.com/Henish_t">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenishTrada" />
+  </a> -->
+</p>
+</details>
